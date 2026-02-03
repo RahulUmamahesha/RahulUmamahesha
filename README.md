@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-My name is Rahul Hejjodlu Umamahesha a Graduate student in Computer Science, exploring Machine Learning, Deep Learning, and applied AI 📚
+My name is Rahul Hejjodlu Umamahesha, a graduate student in Computer Science at the University of Florida, passionate about Machine Learning, Deep Learning, and applied AI 📚
 
 ---
 
