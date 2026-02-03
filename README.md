@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-My name is Rahul Hejjodlu Umamahesha — feel free to call me Rahul 😄
+My name is Rahul Hejjodlu Umamahesha a Graduate student in Computer Science, exploring Machine Learning, Deep Learning, and applied AI 📚
 
 ---
 
