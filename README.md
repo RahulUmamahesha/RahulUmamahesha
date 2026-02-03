@@ -5,12 +5,13 @@ My name is Rahul Hejjodlu Umamahesha — feel free to call me Rahul 😄
 ---
 
 ## 🎓 Educational Background
-- M.S. with Thesis in Electrical and Computer Engineering
+
+- **M.S. with Thesis in Electrical and Computer Engineering**  
   University of Florida
-- B.E in Information Science & Engineering
-- PES college of Engineering
 
-
+- **B.E in Information Science & Engineering**  
+  PES College of Engineering
+  
 ---
 
 ## 🔍 Research Interests
