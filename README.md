@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi there!
 
-<!--
-**RahulUmamahesha/RahulUmamahesha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Rahul Hejjodlu Umamahesha — feel free to call me Rahul 😄
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Educational Background
+- M.S. with Thesis in Electrical and Computer Engineering
+  University of Florida
+- B.E in Information Science & Engineering
+- PES college of Engineering
+
+
+---
+
+## 🔍 Research Interests
+
+- 🤖 Machine Learning
+- 🧠 Deep Learning
+- 🤖 Transformers
+- 🌀 Diffusion Models
+- 🌐 Foundation Models
+- 📚 Large Language Models (LLMs)
+- 🔁 Generative Adversarial Networks (GANs)
+
+---
+
+## 📫 Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/rahul-h-u/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Rahul%20H%20U-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:rahul.umamahesha@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
