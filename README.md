@@ -5,10 +5,10 @@ My name is Rahul Hejjodlu Umamahesha, a graduate student in Computer Science at 
 # 🎓 Educational Background
 
 - **M.S. in Computer Science**  
-  University of Florida
+   *University of Florida*
 
 - **B.E in Information Science & Engineering**  
-  PES College of Engineering
+  *PES College of Engineering*
   
 # 🔍 Research Interests
 
