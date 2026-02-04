@@ -10,10 +10,10 @@ My name is Rahul Hejjodlu Umamahesha, a graduate student in Computer Science at 
 - **B.E in Information Science & Engineering**  
   *PES College of Engineering*
 
-### 🛠 Languages & Tools
+## 🛠 Technical Stack
 
-<img src="https://skillicons.dev/icons?i=aws,bootstrap,cpp,css,d3,django,docker,express,figma,flask,git,go,html,js,jenkins,kubernetes,linux,matlab,mongodb,mysql,nodejs,opencv,photoshop,postman,python,pytorch,react,redux,sqlite,tailwind,tensorflow" />
-  
+![My Skills](https://skillicons.dev/icons?i=aws,bootstrap,cpp,css,d3,django,docker,express,figma,flask,git,go,html,js,jenkins,kubernetes,linux,matlab,mongodb,mysql,nodejs,opencv,photoshop,postman,python,pytorch,react,redux,sqlite,tailwind,tensorflow)
+
 ### 🔍 Research Interests
 
 - 🤖 Machine Learning
