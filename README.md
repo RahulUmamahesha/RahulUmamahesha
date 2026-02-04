@@ -11,7 +11,7 @@ My name is Rahul Hejjodlu Umamahesha, a graduate student in Computer Science at 
   *PES College of Engineering*
 
 
-### 🔍 Research Interests
+### 🔍 Things I’m Exploring
 
 - 🤖 Machine Learning
 - 🧠 Deep Learning
