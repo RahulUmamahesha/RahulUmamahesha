@@ -24,7 +24,7 @@ My name is Rahul Hejjodlu Umamahesha, a graduate student in Computer Science at 
 - 📚 Large Language Models (LLMs)
 - 🔁 Generative Adversarial Networks (GANs)
 
-## Connect with me:
+### Connect with me:
 
 [<img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/rahul-h-u/)
 [<img align="left" alt="Gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:rahul.umamahesha@gmail.com)
