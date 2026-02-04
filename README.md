@@ -12,7 +12,7 @@ My name is Rahul Hejjodlu Umamahesha, a graduate student in Computer Science at 
 
 ### 🛠 Languages & Tools
 
-<img src="https://skillicons.dev/icons?i=aws,bootstrap,cpp,css,d3,django,docker,elasticsearch,express,figma,flask,git,go,html,js,jenkins,kubernetes,linux,matlab,mongodb,mysql,nodejs,opencv,photoshop,postman,python,pytorch,react,redux,sqlite,tailwind,tensorflow" />
+<img src="https://skillicons.dev/icons?i=aws,bootstrap,cpp,css,d3,django,docker,express,figma,flask,git,go,html,js,jenkins,kubernetes,linux,matlab,mongodb,mysql,nodejs,opencv,photoshop,postman,python,pytorch,react,redux,sqlite,tailwind,tensorflow" />
   
 ### 🔍 Research Interests
 
