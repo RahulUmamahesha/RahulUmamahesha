@@ -6,7 +6,7 @@ My name is Rahul Hejjodlu Umamahesha, a graduate student in Computer Science at 
 
 - **M.S. in Computer Science**  
    *University of Florida*
-
+  
 - **B.E in Information Science & Engineering**  
   *PES College of Engineering*
 
