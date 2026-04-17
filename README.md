@@ -16,10 +16,8 @@ My name is Rahul Hejjodlu Umamahesha, a graduate student in Computer Science at 
 - 🤖 Machine Learning
 - 🧠 Deep Learning
 - 🤖 Transformers
-- 🌀 Diffusion Models
 - 🌐 Foundation Models
 - 📚 Large Language Models (LLMs)
-- 🔁 Generative Adversarial Networks (GANs)
 
 ### Connect with me:
 
